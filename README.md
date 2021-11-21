@@ -14,7 +14,10 @@ cd to app-ui/app-ui and run "npm install" command to install dependencies
 
 # Step-2: 
 run "npm start to start the server on localhost:3000.
-After that there will be to components ("source" & "destination") on browser with a link.
+
+After that there will be to components ("source" & "destination") on browser with a link shown below:
+
+![Screenshot](https://github.com/Prometheus7-creator/app-ui/blob/main/screenshot.jpg)
 
 # Note:
 index.js in root directory contains express server code. To test run "npm install" & "npm start"
