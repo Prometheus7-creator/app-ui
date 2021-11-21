@@ -1,7 +1,11 @@
 import Diagram from './Components/BasicConnection';
 
 const App = () => {
-  return <div className='App'><Diagram /></div>;
+  return (
+    <>
+    <Diagram />
+    </>
+  );
 }
 
 export default App;
